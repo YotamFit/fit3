@@ -1,0 +1,29 @@
+body {
+  background-image:url("teemobg.png");
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+}
+.container-fluid {
+  text-align: center;
+}
+.contact-page {
+  margin-top: 5%;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.carousel-img{
+  max-width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-inner {
+  margin-top: 3rem;
+}
